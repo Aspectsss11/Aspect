@@ -1,0 +1,4 @@
+opencv-python==4.10.0
+numpy==1.23.0
+pywin32==305
+bettercam==0.1.0

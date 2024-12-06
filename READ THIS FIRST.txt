@@ -1,0 +1,18 @@
+(IMPORTANT)
+
+Before anything, use this to download all the requirements needed to run the trigger bot. - Minimum of 2 minutes - If you need any help contact me on discord or the group - .aspects.
+
+--------------------------------------------------------------------------------------------
+
+Download Python 3.10 - https://www.python.org/downloads/release/python-3100/ after downloading... |
+
+Open CMD as admin and copy your file destination (where the trigger bot file is) |
+
+THEN
+
+pip install -r requirements.txt --- COPY AND PASTE INTO CMD - (ADMIN) |
+
+Enjoy using the trigger bot, (IMPORTANT) one thing to mention is with the trigger bot only problem is you always have to update the values in the trigger bot in order for it to work the trigger bot wont work if you load it from the previous config you used. | - Will be fixed soon, other then that the trigger bot works perfectly
+
+Yes, this was all created in python. |
+                                   
